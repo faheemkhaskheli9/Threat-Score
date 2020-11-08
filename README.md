@@ -1,4 +1,4 @@
-#Threat Score
+# Threat Score
 This is going to be an automatic system, which will be personalized based on user.
 it will assign threat score to people that come in contact with you and tell you
 if they are any threat to you, higher score mean more threat they can be toward you.
